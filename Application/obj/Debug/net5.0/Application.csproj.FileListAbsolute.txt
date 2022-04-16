@@ -1,0 +1,17 @@
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Application.deps.json
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Application.dll
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\ref\Application.dll
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Application.pdb
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Domain.dll
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Persistance.dll
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Persistance.pdb
+F:\btmSocialPlatform\Application\bin\Debug\net5.0\Domain.pdb
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.dll
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\ref\Application.dll
+F:\btmSocialPlatform\Application\obj\Debug\net5.0\Application.pdb

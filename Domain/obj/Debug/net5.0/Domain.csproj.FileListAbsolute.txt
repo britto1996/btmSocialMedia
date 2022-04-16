@@ -1,0 +1,12 @@
+F:\btmSocialPlatform\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\btmSocialPlatform\Domain\bin\Debug\net5.0\Domain.dll
+F:\btmSocialPlatform\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\btmSocialPlatform\Domain\bin\Debug\net5.0\Domain.pdb
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.dll
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\btmSocialPlatform\Domain\obj\Debug\net5.0\Domain.pdb

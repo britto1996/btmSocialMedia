@@ -1,0 +1,15 @@
+F:\btmSocialPlatform\Persistance\bin\Debug\net5.0\Persistance.deps.json
+F:\btmSocialPlatform\Persistance\bin\Debug\net5.0\Persistance.dll
+F:\btmSocialPlatform\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+F:\btmSocialPlatform\Persistance\bin\Debug\net5.0\Persistance.pdb
+F:\btmSocialPlatform\Persistance\bin\Debug\net5.0\Domain.dll
+F:\btmSocialPlatform\Persistance\bin\Debug\net5.0\Domain.pdb
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.csproj.AssemblyReference.cache
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.dll
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+F:\btmSocialPlatform\Persistance\obj\Debug\net5.0\Persistance.pdb
